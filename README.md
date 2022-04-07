@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jaromvsantiago
+- 👀 I’m interested in Tech, Sports and Fitness.
+- 🌱 I’m currently learning Web Development.
+- I'm currently working toward a career in Tech.
+- 📫 How to reach me jaromvsantiago@gmail.com
